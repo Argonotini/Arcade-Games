@@ -1,5 +1,5 @@
 # Arcade-Games
-Reproduction of the legendary Made Madness Arcade Game on Unreal Engine 5.2
+Reproduction of the legendary Maze Madness Arcade Game on Unreal Engine 5.2
 
 ![image](https://drive.google.com/uc?export=view&id=1ccClfoHXZB8Hhy7H252uShQ_v-0i2vAt)
 
